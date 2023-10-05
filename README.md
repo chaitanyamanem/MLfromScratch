@@ -7,3 +7,5 @@ implemented from scratch using only numpy and python
 - KNN
 - K-Means clustering
 - Neural Networks
+
+![kmeans](kmeans_clusters.svg)
