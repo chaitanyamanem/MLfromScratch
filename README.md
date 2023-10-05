@@ -1,6 +1,6 @@
 # ML algorithms 
 
-This repository contains the below listed ML and deep learning algorithms implemented from scratch using Python, numpy arrays or Tensors
+This repository contains the below listed ML and deep learning algorithms implemented from scratch using Python, numpy arrays or Tensors. Matrix operation is used mostly to make the models efficient and fast.
 - Linear Regression
 - Logistic regression
 - Naive Bayes
