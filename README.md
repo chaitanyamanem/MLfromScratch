@@ -15,4 +15,4 @@ The figure on the left displays the actual training data with four clusters. The
 
 Also, cool project, loss surfaces
 
-![loss_surface](3d_loss_surface.html)
+![loss_surface](3d_loss_surface.svg)
